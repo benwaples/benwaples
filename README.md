@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hey, I'm Ben (he/him)!
 
-<!--
-**benwaples/benwaples** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Description -->
+I am a Full Stack JavaScript developer with experience in team development and leadership. I am driven to deliver high quality work with all things I do! I have 2 years with managing client relationship experience, creating and delivering high quality products, and exceeding goals/ expectations. 
 
-Here are some ideas to get you started:
+I am certain that diversity of thought is the only way the world will get better, I am passionate about the health of our planet, and I'm still not over the fact that people have experienced outer space... WHAT?!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a rower, photographer, vegan cook, recreational wood worker, and coffee enthusiast.  
+
+<!-- Tech -->
+```js
+Skills {
+languages: [ Javascript, HTML, CSS ],
+backend_end: [ Node.js, Express, Pug ],
+front_end: [ React ],
+databases: [ SQL/Postgres ],
+testing_suites: [ Jest, Supertest, QUnit ],
+tools: [ VSCode, CLI, Netlify, Heroku, PGAdmin, Postman, Github, Slack ]
+} 
+```
+
+<!-- Future Ben -->
+5 years from now I want to be working in cyber security, and in 8 years my goal is to be a penetration tester with a cyber security team.
+
+<!-- Contact -->
+Email: benwaples@gmail.com
+LinkedIn: in/ben-waples/
+
+<!-- Fun Fac/ joke -->
+
+
+
