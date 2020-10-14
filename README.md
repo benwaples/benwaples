@@ -7,16 +7,19 @@ I am certain that diversity of thought is the only way the world will get better
 
 I am a rower, photographer, vegan cook, recreational wood worker, and coffee enthusiast.  
 <img src="https://media.giphy.com/media/Bmej885B6R2Ug/giphy.gif" alt="wire frame" />
+
+### Portfolio:
+<a href="benwaples.dev">benwaples.dev</a.>
 ****
 ### **Tech** 💻 
 ```js
 Skills {
-languages: [ Javascript, HTML, CSS ],
-backend_end: [ Node.js, Express, Pug ],
-front_end: [ React ],
-databases: [ SQL/Postgres ],
-testing_suites: [ Jest, Supertest, QUnit ],
-tools: [ VSCode, CLI, Netlify, Heroku, PGAdmin, Postman, Github, Slack ]
+languages: [ 'Javascript', 'HTML', 'CSS' ],
+backend_end: [ 'Node.js', 'Express', 'Pug' ],
+front_end: [ 'React' ],
+databases: [ 'SQL/Postgres' ],
+testing_suites: [ 'Jest', 'Supertest', 'QUnit' ],
+tools: [ 'VSCode', 'CLI', 'Netlify', 'Heroku', 'PGAdmin', 'Postman', 'Github', 'Slack' ]
 } 
 ```
 ***
