@@ -9,7 +9,7 @@ I am a rower, photographer, vegan cook, recreational wood worker, and coffee ent
 <img src="https://media.giphy.com/media/Bmej885B6R2Ug/giphy.gif" alt="wire frame" />
 
 ### Portfolio:
-<a href="benwaples.dev">benwaples.dev</a.>
+<a href="benwaples.dev">benwaples.dev
 ****
 ### **Tech** 💻 
 ```js
