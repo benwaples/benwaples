@@ -21,7 +21,8 @@ backend_end: [ 'Node.js', 'Express', 'Pug' ],
 front_end: [ 'React' ],
 databases: [ 'SQL/Postgres' ],
 testing_suites: [ 'Jest', 'Supertest', 'QUnit' ],
-tools: [ 'VSCode', 'CLI', 'Netlify', 'Heroku', 'PGAdmin', 'Postman', 'Github', 'Slack' ]
+tools: [ 'VSCode', 'CLI', 'Netlify', 'Heroku', 'PGAdmin', 'Postman', 'Github', 'Slack' ],
+currently_learning: ['TypeScript']
 } 
 ```
 ***
