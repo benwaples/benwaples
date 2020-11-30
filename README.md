@@ -27,7 +27,8 @@ currently_learning: ['TensorFlow Machine Learning', 'AWS S3']
 ```
 ***
 ### **Future Ben** 💭
-5 years from now I want to be working in cyber security, and in 8 years my goal is to be a penetration tester with a cyber security team.
+5 years from now my goal is to be in a leadership role on a software engineer team and to have published a small library of React components. In 10 years my goal is to be working on an application that has over 1 million users a day.
+
 ***
 ### **Contact** 📧
 
