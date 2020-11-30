@@ -8,7 +8,7 @@ I am certain that diversity of thought is the only way the world will get better
 I am a rower, photographer, vegan cook, recreational wood worker, and coffee enthusiast.  
 <img src="https://media.giphy.com/media/Bmej885B6R2Ug/giphy.gif" alt="wire frame" />
 
-My partner and I have a vegan food blog called <a href="https://www.chickpleaseclub.com/" >Chick, Please!</a>, check it out!
+<strong>Fun Fact</strong>: My partner and I have a vegan food blog called <a href="https://www.chickpleaseclub.com/" >Chick, Please!</a>, check it out!
 
 ## Portfolio:
 <a href="benwaples.dev">benwaples.dev
