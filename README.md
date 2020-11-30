@@ -16,13 +16,13 @@ My partner and I have a vegan food blog called <a href="https://www.chickpleasec
 ### **Tech** 💻 
 ```js
 Skills {
-languages: [ 'Javascript', 'HTML', 'CSS' ],
+languages: [ 'Javascript', 'TypeScript', 'HTML', 'CSS' ],
 backend_end: [ 'Node.js', 'Express', 'Pug' ],
 front_end: [ 'React' ],
 databases: [ 'SQL/Postgres' ],
 testing_suites: [ 'Jest', 'Supertest', 'QUnit' ],
 tools: [ 'VSCode', 'CLI', 'Netlify', 'Heroku', 'PGAdmin', 'Postman', 'Github', 'Slack' ],
-currently_learning: ['TypeScript']
+currently_learning: ['TensorFlow Machine Learning', 'AWS S3']
 } 
 ```
 ***
