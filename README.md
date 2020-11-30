@@ -10,8 +10,8 @@ I am a rower, photographer, vegan cook, recreational wood worker, and coffee ent
 
 My partner and I have a vegan food blog called <a href="https://www.chickpleaseclub.com/" >Chick, Please!</a>, check it out!
 
-<!-- ### Portfolio:
-<a href="benwaples.dev">benwaples.dev<> -->
+## Portfolio:
+<a href="benwaples.dev">benwaples.dev
 ****
 ### **Tech** 💻 
 ```js
