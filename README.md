@@ -11,18 +11,18 @@ I am a rower, photographer, vegan cook, recreational wood worker, and coffee ent
 <strong>Fun Fact</strong>: My partner and I have a vegan food blog called <a href="https://www.chickpleaseclub.com/" >Chick, Please!</a>, check it out!
 
 ## Portfolio:
-<a href="benwaples.dev">benwaples.dev
+<a href="benwaples.dev">benwaples.dev</a>
 ****
 ### **Tech** 💻 
 ```js
 Skills {
-languages: [ 'Javascript', 'TypeScript', 'HTML', 'CSS' ],
-backend_end: [ 'Node.js', 'Express', 'Pug' ],
-front_end: [ 'React' ],
-databases: [ 'SQL/Postgres' ],
-testing_suites: [ 'Jest', 'Supertest', 'QUnit' ],
-tools: [ 'VSCode', 'CLI', 'Netlify', 'Heroku', 'PGAdmin', 'Postman', 'Github', 'Slack' ],
-currently_learning: ['TensorFlow Machine Learning', 'AWS S3']
+  languages: [ 'Javascript', 'TypeScript', 'HTML', 'CSS' ],
+  backend_end: [ 'Node.js', 'Express', 'Pug' ],
+  front_end: [ 'React' ],
+  databases: [ 'SQL/Postgres' ],
+  testing_suites: [ 'Jest', 'Supertest', 'QUnit' ],
+  tools: [ 'VSCode', 'CLI', 'Netlify', 'Heroku', 'PGAdmin', 'Postman', 'Github', 'Slack' ],
+  currently_learning: ['TensorFlow Machine Learning', 'AWS S3']
 } 
 ```
 ***
