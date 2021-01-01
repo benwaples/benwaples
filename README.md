@@ -16,7 +16,7 @@ I am a rower, photographer, vegan cook, recreational wood worker, and coffee ent
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benwaples&layout=compact&theme=gruvbox)](https://github.com/benwaples/github-readme-stats)
 
 ## Portfolio:
-<h2> <a href="benwaples.dev">benwaples.dev</a> </h2>
+[benwaples.dev](https://benwaples.dev/)
 
 ****
 ### **Tech** 💻 
