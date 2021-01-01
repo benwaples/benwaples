@@ -10,8 +10,14 @@ I am a rower, photographer, vegan cook, recreational wood worker, and coffee ent
 
 <strong>Fun Fact</strong>: My partner and I have a vegan food blog called <a href="https://www.chickpleaseclub.com/" >Chick, Please!</a>, check it out!
 
+![Ben's github stats](https://github-readme-stats.vercel.app/api?username=benwaples&show_icons=true&theme=gruvbox)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benwaples&layout=compact&theme=gruvbox)](https://github.com/benwaples/github-readme-stats)
+
 ## Portfolio:
-<a href="benwaples.dev">benwaples.dev</a>
+<h2> <a href="benwaples.dev">benwaples.dev</a> </h2>
+
 ****
 ### **Tech** 💻 
 ```js
@@ -37,6 +43,5 @@ Email: benwaples@gmail.com
 LinkedIn: <a href="https://www.linkedin.com/in/ben-waples/">in/ben-waples/</a>
 
 <!-- Fun Fac/ joke -->
-
 
 
