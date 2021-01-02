@@ -16,8 +16,6 @@ I am a rower, photographer, vegan cook, recreational wood worker, Star Wars fan,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benwaples&layout=compact&theme=gruvbox)](https://github.com/benwaples/github-readme-stats)
 
-## Portfolio:
-[benwaples.dev](https://benwaples.dev/)
 
 ****
 ### **Tech** 💻 
@@ -35,6 +33,11 @@ Skills {
 ***
 ### **Future Ben** 💭
 5 years from now my goal is to be in a leadership role on a software engineer team and to have published a small library of React components. In 10 years my goal is to be working on an application that has over 1 million users a day.
+
+***
+
+### **Portfolio**:
+[benwaples.dev](https://benwaples.dev/)
 
 ***
 ### **Contact** 📧
