@@ -21,7 +21,7 @@ I am a rower, photographer, vegan cook, recreational wood worker, Star Wars fan,
 ### **Tech** 💻 
 ```js
 Skills {
-  languages: [ 'Javascript', 'TypeScript', 'HTML', 'CSS' ],
+  development: [ 'Javascript', 'TypeScript', 'HTML', 'CSS' ],
   backend_end: [ 'Node.js', 'Express', 'Pug' ],
   front_end: [ 'React' ],
   databases: [ 'SQL/Postgres' ],
