@@ -21,12 +21,11 @@ I am a rower, photographer, vegan cook, recreational wood worker, Star Wars fan,
 ### **Tech** 💻 
 ```js
 Skills {
-  development: [ 'Javascript', 'TypeScript', 'HTML', 'CSS' ],
-  backend_end: [ 'Node.js', 'Express', 'Pug' ],
-  front_end: [ 'React' ],
+  development: [ 'Javascript', 'TypeScript', 'NodeJs', 'HTML', 'CSS' ],
+  frameworks: [ 'React', 'NextJs', 'Express', 'Pug', 'SCSS' ],
   databases: [ 'SQL/Postgres' ],
-  testing_suites: [ 'Jest', 'Supertest', 'QUnit' ],
-  tools: [ 'VSCode', 'CLI', 'Netlify', 'Heroku', 'PGAdmin', 'Postman', 'Github', 'Slack' ],
+  testing_suites: [ 'Jest', 'QUnit' ],
+  tools: [ 'VSCode', 'CLI', 'Netlify', 'Heroku', 'Vercel', 'PGAdmin', 'Postman', 'Github' ],
   currently_learning: ['TensorFlow Machine Learning', 'AWS S3']
 } 
 ```
